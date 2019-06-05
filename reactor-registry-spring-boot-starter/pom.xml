@@ -5,7 +5,7 @@
     <parent>
         <groupId>com.github.759434091</groupId>
         <artifactId>reactor-rpc4j-parent</artifactId>
-        <version>1.0.0.RELEASE</version>
+        <version>1.0.1.RELEASE</version>
     </parent>
 
     <artifactId>reactor-registry-spring-boot-starter</artifactId>
