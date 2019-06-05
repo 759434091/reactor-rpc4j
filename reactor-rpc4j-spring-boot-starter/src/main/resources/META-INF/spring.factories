@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.hept59434091.reactor.rpc4j.ReactorRpcAutoConfiguration
