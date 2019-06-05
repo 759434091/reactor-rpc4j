@@ -51,7 +51,7 @@ public class ReactiveRegistrySpringBootStarterApplicationTests {
         registerClient.close();
 
         Thread.sleep(2 * 1000);
-        discoveryClient.close();
+        discoveryClient.dispose();
     }
 
 }

@@ -20,7 +20,7 @@ RPC
 <dependency>
   <groupId>com.github.759434091</groupId>
   <artifactId>reactor-rpc4j-spring-boot-starter</artifactId>
-  <version>1.0.5-SNAPSHOT</version>
+  <version>1.0.0.RELEASE</version>
 </dependency>
 ```
 
@@ -164,7 +164,7 @@ reactor-rpc4j.server.port=8080
 <dependency>
   <groupId>com.github.759434091</groupId>
   <artifactId>reactor-registry-spring-boot-starter</artifactId>
-  <version>1.0.3-SNAPSHOT</version>
+  <version>1.0.0.RELEASE</version>
 </dependency>
 ```
 
