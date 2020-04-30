@@ -1,8 +1,8 @@
-package com.github.hept59434091.reactor.rpc4j.server.service;
+package com.github.hept59434091.reactor.rpc4j.fn.server.service;
 
-import com.github.hept59434091.reactor.rpc4j.TestRequest;
-import com.github.hept59434091.reactor.rpc4j.TestResponse;
-import com.github.hept59434091.reactor.rpc4j.TestService;
+import com.github.hept59434091.reactor.rpc4j.facade.TestRequest;
+import com.github.hept59434091.reactor.rpc4j.facade.TestResponse;
+import com.github.hept59434091.reactor.rpc4j.facade.TestService;
 
 import reactor.core.publisher.Mono;
 

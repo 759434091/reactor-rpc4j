@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.hept59434091.reactor.rpc4j;
+package com.github.hept59434091.reactor.rpc4j.fn;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CountDownLatch;

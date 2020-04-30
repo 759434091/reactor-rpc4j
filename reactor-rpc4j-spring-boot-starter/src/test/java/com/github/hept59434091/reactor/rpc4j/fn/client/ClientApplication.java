@@ -1,9 +1,9 @@
-package com.github.hept59434091.reactor.rpc4j.client;
+package com.github.hept59434091.reactor.rpc4j.fn.client;
 
 import com.alibaba.fastjson.JSON;
 import com.github.hept59434091.reactor.rpc4j.RpcServiceClientRegister;
-import com.github.hept59434091.reactor.rpc4j.TestService;
-import com.github.hept59434091.reactor.rpc4j.TestRequest;
+import com.github.hept59434091.reactor.rpc4j.facade.TestService;
+import com.github.hept59434091.reactor.rpc4j.facade.TestRequest;
 
 import lombok.extern.slf4j.Slf4j;
 

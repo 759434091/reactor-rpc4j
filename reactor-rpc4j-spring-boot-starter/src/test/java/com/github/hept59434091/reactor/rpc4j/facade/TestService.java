@@ -1,4 +1,4 @@
-package com.github.hept59434091.reactor.rpc4j;
+package com.github.hept59434091.reactor.rpc4j.facade;
 
 import com.github.hept59434091.reactor.rpc4j.annotation.ProtoBufMethod;
 import com.github.hept59434091.reactor.rpc4j.annotation.ProtoBufService;

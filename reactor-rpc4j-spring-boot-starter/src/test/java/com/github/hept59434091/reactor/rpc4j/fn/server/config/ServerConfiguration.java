@@ -1,9 +1,9 @@
-package com.github.hept59434091.reactor.rpc4j.server.config;
+package com.github.hept59434091.reactor.rpc4j.fn.server.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import com.github.hept59434091.reactor.rpc4j.server.service.TestServiceImpl;
+import com.github.hept59434091.reactor.rpc4j.fn.server.service.TestServiceImpl;
 
 /**
  * @author <a href="luxueneng@baidu.com">luxueneng</a>

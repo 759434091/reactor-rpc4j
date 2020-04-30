@@ -1,4 +1,4 @@
-package com.github.hept59434091.reactor.rpc4j;
+package com.github.hept59434091.reactor.rpc4j.facade;
 
 import com.baidu.bjf.remoting.protobuf.annotation.ProtobufClass;
 
@@ -13,9 +13,10 @@ import lombok.NoArgsConstructor;
  */
 @Data
 @Builder
-@ProtobufClass
 @NoArgsConstructor
 @AllArgsConstructor
-public class TestRequest {
+@ProtobufClass
+public class TestResponse {
     private int id;
+    private String value;
 }
